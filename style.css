@@ -6,10 +6,23 @@
     extralightgreen #d4e9e2
     darkgreen #1e3932
 */
-* {
+
+*{
   color: #27251F;
   box-sizing: border-box;
   font-family: sans-serif;
 }
 
 /* your code */
+body {
+  background-color: #1e3932;
+  font-size: 20;
+}
+
+#title {
+  color: f2f0eb;
+}
+
+.city-item{
+  background-color: #00754a
+}
